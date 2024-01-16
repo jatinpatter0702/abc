@@ -1,0 +1,23 @@
+Benifit of Git:-						DVCS = distributed version control system
+1. Collabrative Work
+2. Transparency
+3. Version Cntrol
+4. Data Safety
+
+
+
+Objective of Git:-
+
+1. Functionality Examination
+2. Functionality Utlization
+3. Workflow Analysis
+4. Workflow Control 
+
+
+
+
+
+1st comand =
+mkdir folder name(t create a folder)
+2nd comand = 
+ls (it list all the files present in th e folder)
