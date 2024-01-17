@@ -21,3 +21,5 @@ Objective of Git:-
 mkdir folder name(t create a folder)
 2nd comand = 
 ls (it list all the files present in th e folder)
+
+2nd command
